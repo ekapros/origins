@@ -1,4 +1,4 @@
-Origins. Chapter 1.
+**Origins. Chapter 1.**
 
 Mars, 3017. Jaonora just finished school in the small town of Troy, in the Gusev crater of the Ma’adim Vallis. She was bored. Most people of Troy were farmers, harvesting the bright white silica foam at the nearby Silica Valley. Today at school they were taught how these farmers where pioneers who cultivated the land and saved the Ma’adim Vallis from an environmental disaster, caused by the failed Space Exploration of the 25th Century.
 
@@ -12,13 +12,13 @@ The audio goes like this: a music-box children’s music starts to play for a fe
 
 [34571, 34571, 92860, 76752, 92860, 76752, 17543, 17543]
 
-Once the numbers stopped, the music resumed for a while. Then it stopped. The audio disc was otherwise totally empty. Jaonora was shocked. First of, she hadn’t seen an audio disc like that before. It seemed ancient: how on Mars did her audio recorder still play this thing? Plus, it was ancient; only the old mBámra had an accent as close to that of the girl in the recording, and mBámra was at least 120 years old. She decided to go find mBámra and talk to him. [click to go meet mBámra]
+Once the numbers stopped, the music resumed for a while. Then it stopped. The audio disc was otherwise totally empty. Jaonora was shocked. First of, she hadn’t seen an audio disc like that before. It seemed ancient: how on Mars did her audio recorder still _play_ this thing? Plus, it _was_ ancient; only the old mBámra had an accent as close to that of the girl in the recording, and mBámra was at least 120 years old. She decided to go find mBámra and talk to him. [click to go meet mBámra]
 
-mB: How may I be of assistance, young lady?
+> mB: How may I be of assistance, young lady?
 
-J: This. [plays recording]
+> J: This. [plays recording]
 
-mB: Ah, now. I see you played that in your audio recorder. What permission does your audio app have?
+> mB: Ah, now. I see you played that in your audio recorder. What permission does your audio app have?
 
 [A. Auto saves to the web everything it plays.
 B. Only plays files locally, on the machine. I think.
@@ -29,17 +29,17 @@ onClick():
 A. So, you may be found. B. You think? So, you’re not sure. If this is not true, you may be found. C. Definition. D. Definition.
 ]
 
-J: OK. But what is this?
+> J: OK. But what _is_ this?
 
-mB: Spy code. These were transmitted in the old days through the ancient web system, the “radio”.
+> mB: Spy code. These were transmitted in the old days through the ancient web system, the “radio”.
 
-J: What does it mean? Who is it for?
+> J: What does it mean? Who is it for?
 
-mB: You need to hide. You’re not safe.
+> mB: You need to hide. You’re not safe.
 
-J: Why?
+> J: Why?
 
-mB: They’ll find you. You’ve left a data trail. A data trail is [definition].
+> mB: They’ll find you. You’ve left a data trail. A data trail is [definition].
 
 [Q: Does recording on an audio-journal leave a data trail?
 
@@ -48,11 +48,11 @@ A. Yes, always. B. Yes, but only if it saves the recording on the web. C. No, ne
 onClick():
 A. Hmmm, not exactly (data trail definition). B. That is correct! (data trail definition) C. Hmmm, not exactly (data trail definition). D. Apologies, we do not currently ship to Planet Earth (location auto-detected from your IP). ]
 
-J: Who will find me?
+> J: Who will find me?
 
-mB: You need to hide. You’re not safe.
+> mB: You need to hide. You’re not safe.
 
-Jaonora was delighted and furious at the same time. Hide? Of course not! All these years, she had been looking for an adventure, and now that one knocked on her door, she would hide? There was no way she was doing that!
+Jaonora was delighted and furious at the same time. _Hide_? Of course not! All these years, she had been looking for an adventure, and now that one knocked on her door, she would _hide_? There was no way she was doing that!
 
 However, she also decided to protect herself from whoever might be after her. She thought about what mBámra had said, about the data trail. What could be an effective way to protect my data, she wondered.
 
@@ -63,6 +63,7 @@ A good password is:
 A. 123456 B. password C. My birthday D. (input) ]
 
 —————————————————————— ——————————————————————
+
 TO DO:
 
 Jaonora is found by government agents. They found her by her IP. [IP location quiz].
@@ -80,7 +81,7 @@ She asks agents, who point back to the dark age of the Space Exploration and sen
 
 Jaonora goes back to mBámra.
 
-*Notes*
+**Notes**
 
 I have used a real Mars location: https://planetarynames.wr.usgs.gov/Feature/3772
 
