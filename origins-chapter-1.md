@@ -29,11 +29,7 @@ onClick():
 A. So, you may be found. B. You think? So, you’re not sure. If this is not true, you may be found. C. Definition. D. Definition.
 ]
 
-<<<<<<< Updated upstream
 > J: OK. But what _is_ this?
-=======
-J: OK. But what _is_ this?
->>>>>>> Stashed changes
 
 > mB: Spy code. These were transmitted in the old days through the ancient web system, the “radio”.
 
